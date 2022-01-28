@@ -1,0 +1,17 @@
+.classMovie {
+    margin-top: 2200px !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+}
+
+body {
+    background-color: black;
+}
+
+.navbtn {
+    margin-left: 900px;
+}
+
+.fav {
+    margin-left: 120px;
+}
